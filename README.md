@@ -1,7 +1,7 @@
 
-# Dataset Title
+# Affordable Sonar Scan Dataset with Ping 360
 
-### Dataset for Exploring-the-Feasibility-of-Affordable-Sonar-Technology-Ping-360-Data:  Object Detection in Underwater Environments Using the Ping 360
+### Dataset for Exploring the Feasibility of Affordable Sonar Technology: Object Detection in Underwater Environments Using the Ping 360
 **Author(s):** Md Junayed Hasan, Somasundar Kannan.
 **Affiliation:** Dataxense,Aberdeen AB11 5RG, Scotland, UK; and National Subsea Centre, Aberdeen AB21 0BH, Scotland, UK   
 **Date:** 19 September 2024
@@ -16,17 +16,6 @@ This dataset is part of the research paper titled "[Dataset for Exploring-the-Fe
 
 - **Licence:** MIT License (recommended for open datasets as it is permissive and widely used)
 
-
-```
-
-## Usage
-
-Instructions on how users can work with the dataset, such as:
-
-**Download the Dataset:** Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
-   ```
 
 
 ## Citation
