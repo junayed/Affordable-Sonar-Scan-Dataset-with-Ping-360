@@ -1,5 +1,5 @@
 
-# Affordable Sonar Scan Dataset with Ping 360
+# Sonar Scan Dataset with Ping 360
 
 ### Dataset for Exploring the Feasibility of Affordable Sonar Technology: Object Detection in Underwater Environments Using the Ping 360
 **Author(s):** Md Junayed Hasan, Somasundar Kannan.
