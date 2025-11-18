@@ -26,7 +26,7 @@ Please cite this dataset as follows:
 @dataset{Exploring the Feasibility of Affordable Sonar
 Technology: Object Detection in Underwater
 Environments Using the Ping 360,
-    author = {Md Junayed Hasan and Somasundar Kannan and Ali Rohan and Mohd Asif Shah},
+    author = {Md Junayed Hasan and Somasundar Kannan and Ali Rohan and Amira Samy Talat},
     title = {Dataset for [Exploring the Feasibility of Affordable Sonar
 Technology: Object Detection in Underwater
 Environments Using the Ping 360]},
